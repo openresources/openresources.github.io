@@ -1,0 +1,11 @@
+name,hierarchy_level,description
+repair,4,
+refurbishment,4,
+anaerobic digestion,3,
+closed loop recycling,3,
+recycling,3,
+composting,3,
+energy recovery,2,
+landfill,1,
+incineration,1,
+

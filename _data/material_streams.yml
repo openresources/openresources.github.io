@@ -1,0 +1,265 @@
+---
+textiles:
+  parent: 
+  color: fd8812
+clothes:
+  parent: textiles
+  color: fd8813
+shoes:
+  parent: textiles
+  color: fd8814
+mixed textiles & clothes:
+  parent: textiles
+  color: fd8815
+plastics:
+  parent: 
+  color: ee3f22
+plastic bottles:
+  parent: plastics
+  color: ee3f25
+plastic bags:
+  parent: plastics
+  color: ee3f26
+household plastics (with film):
+  parent: plastics
+  color: ee3f27
+household plastics (without film):
+  parent: plastics
+  color: ee3f28
+hard plastics:
+  parent: plastics
+  color: ee3f29
+paper:
+  parent: 
+  color: 0089d1
+newspapers & magazines:
+  parent: paper
+  color: 0089d2
+cardboard:
+  parent: paper
+  color: 0089d3
+telephone directories:
+  parent: paper
+  color: 0089d4
+mixed paper:
+  parent: paper
+  color: 0089d5
+mixed paper and card:
+  parent: paper
+  color: 0089d6
+books:
+  parent: paper
+  color: 0089d7
+corrugated cardboard:
+  parent: paper
+  color: 0089d8
+glass:
+  parent: 
+  color: 00a9a4
+mixed glass:
+  parent: glass
+  color: 00a9a4
+clear glass bottles and jars:
+  parent: glass
+  color: 00a9a4
+brown glass bottles and jars:
+  parent: glass
+  color: b7886e
+green glass bottles and jars:
+  parent: glass
+  color: 5bc4b6
+blue glass bottles and jars:
+  parent: glass
+  color: 74beeb
+flat glass:
+  parent: glass
+  color: 00a9a4
+household organics:
+  parent: 
+  color: 
+garden waste:
+  parent: household organics
+  color: 18b26a
+food waste:
+  parent: household organics
+  color: 18b26a
+metals:
+  parent: 
+  color: 54656f
+food & drink cans:
+  parent: metals
+  color: 54656f
+aluminium cans:
+  parent: metals
+  color: 54656f
+steel cans:
+  parent: metals
+  color: 54656f
+aerosols:
+  parent: metals
+  color: 54656f
+foil:
+  parent: metals
+  color: 54656f
+foil (with pie tin):
+  parent: metals
+  color: 54656f
+foil trays:
+  parent: metals
+  color: 54656f
+scrap metal:
+  parent: metals
+  color: 54656f
+large tins:
+  parent: metals
+  color: 54656f
+mixed metals:
+  parent: metals
+  color: 54656f
+mixed metals (with foil):
+  parent: metals
+  color: 54656f
+mixed metals (with foil but without aerosol):
+  parent: metals
+  color: 54656f
+automotive waste:
+  parent: 
+  color: '000000'
+used engine oil:
+  parent: automotive waste
+  color: '000001'
+car batteries:
+  parent: automotive waste
+  color: '000002'
+tyres:
+  parent: automotive waste
+  color: '000003'
+building materials:
+  parent: 
+  color: 985d35
+soil:
+  parent: building materials
+  color: 985d36
+hardcore & rubble:
+  parent: building materials
+  color: 985d37
+wood & timber:
+  parent: building materials
+  color: 985d38
+plasterboard:
+  parent: building materials
+  color: 985d39
+UPVC frames:
+  parent: building materials
+  color: 985d40
+other recyclables:
+  parent: 
+  color: f78f1e
+paint:
+  parent: other recyclables
+  color: f78f1e
+spectacles:
+  parent: other recyclables
+  color: f78f1e
+cartons:
+  parent: other recyclables
+  color: f78f1e
+furniture:
+  parent: other recyclables
+  color: f78f1e
+tapes and discs:
+  parent: other recyclables
+  color: f78f1e
+discs:
+  parent: other recyclables
+  color: f78f1e
+tapes:
+  parent: other recyclables
+  color: f78f1e
+hand tools:
+  parent: other recyclables
+  color: f78f1e
+cooking oil:
+  parent: other recyclables
+  color: f78f1e
+carpet:
+  parent: other recyclables
+  color: f78f1e
+mattresses:
+  parent: other recyclables
+  color: f78f1e
+bicycles:
+  parent: other recyclables
+  color: f78f1e
+electrical:
+  parent: 
+  color: ed008c
+fridges & freezers:
+  parent: electrical
+  color: ed008c
+batteries:
+  parent: electrical
+  color: ed008c
+telecoms & computers - phone & mouse:
+  parent: electrical
+  color: ed008c
+telecoms & computers - fax & cpu:
+  parent: electrical
+  color: ed008c
+small appliances - irons:
+  parent: electrical
+  color: ed008c
+small appliances - radios:
+  parent: electrical
+  color: ed008c
+small appliances - hair dryers:
+  parent: electrical
+  color: ed008c
+small appliances - mixed:
+  parent: electrical
+  color: ed008c
+large appliances - mixed:
+  parent: electrical
+  color: ed008c
+large appliances - washing machine:
+  parent: electrical
+  color: ed008c
+fluorescent tubes:
+  parent: electrical
+  color: ed008c
+low energy bulbs:
+  parent: electrical
+  color: ed008c
+mixed light bulbs:
+  parent: electrical
+  color: ed008c
+tv & monitors:
+  parent: electrical
+  color: ed008c
+mobile phones:
+  parent: electrical
+  color: ed008c
+printer cartridges:
+  parent: electrical
+  color: ed008c
+household waste:
+  parent: 
+  color: '000000'
+household hazardous waste:
+  parent: 
+  color: 
+hazardous materials:
+  parent: household hazardous waste
+  color: fef200
+gas bottles:
+  parent: household hazardous waste
+  color: fef201
+asbestos:
+  parent: household hazardous waste
+  color: fef202
+household & garden chemicals:
+  parent: household hazardous waste
+  color: fef203
+mixed recyclables:
+  parent: 
+  color: 8dc63f

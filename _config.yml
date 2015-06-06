@@ -1,12 +1,15 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-analytics : UA-8418273-8
+name : Open Resources
+brand : Open Resources
+description : An open source taxonomy of resources.
+keyword :
+url : http://openresources.github.io
+email : info@folklabs.com
+twitter : folklabs
+github : openresources
+author : Folk Labs
+analytics :
 year : 2015
 markdown : kramdown
+
+exclude:
+- node_modules
