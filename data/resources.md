@@ -15,8 +15,8 @@ OpenStreetMap tags are defined as `recycling:[material]=yes/no` on the OpenStree
 <table class="resources-list">
   <thead>
     <td>Name</td>
-    <td>Material stream</td>
-    <td>Colour</td>
+    <td>WRAP material stream</td>
+    <td>WRAP colour</td>
     <td>OpenStreetMap tag</td>
   <thead>
   <tbody>
